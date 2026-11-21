@@ -1,0 +1,29 @@
+# Entornos
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos privados o voluminosos
+data/raw/*
+!data/raw/.gitkeep
+
+# Modelos y pesos entrenados
+models/*
+!models/.gitkeep
+*.pt
+*.pth
+*.onnx
+
+# Resultados generados
+results/*
+!results/.gitkeep
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
