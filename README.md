@@ -27,3 +27,4 @@ No se incluyen las imágenes en este repositorio. Coloca una copia del conjunto 
 Estructura inicial. El entrenamiento y las métricas deberán ejecutarse; no se consideran resultados hasta que se generen realmente.
 # Banana_Guava_Classifier
 Clasificador de imágenes de bananas y guayabas mediante aprendizaje profundo y visión por computadora.
+
