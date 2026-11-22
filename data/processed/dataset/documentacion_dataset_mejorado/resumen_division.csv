@@ -1,0 +1,7 @@
+﻿conjunto,clase,imagenes
+train,Banana,662
+train,Guava,228
+val,Banana,142
+val,Guava,49
+test,Banana,142
+test,Guava,49

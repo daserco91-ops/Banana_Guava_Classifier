@@ -1,0 +1,5 @@
+IMAGENES EXTERNAS PARA PRUEBA DEL CLASIFICADOR
+Clase: Banana
+Imagenes PNG unicas exportadas: 14
+Mantener este conjunto separado de train, validation y test internos.
+La etiqueta asignada es Banana; revisar manualmente las imagenes antes de reportar metricas.

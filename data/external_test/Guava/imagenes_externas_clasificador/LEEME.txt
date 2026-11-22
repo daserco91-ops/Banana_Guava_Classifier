@@ -1,0 +1,5 @@
+IMAGENES EXTERNAS PARA PRUEBA DEL CLASIFICADOR
+Clase: Guava
+Imagenes PNG unicas exportadas: 13
+Estas imagenes deben utilizarse como conjunto externo de prueba, no incorporarse a train, validation ni al entrenamiento.
+La etiqueta indica la clase visual asignada por el usuario/origen del archivo; revise manualmente las imagenes antes de reportar metricas.
